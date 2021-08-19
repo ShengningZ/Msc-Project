@@ -2,4 +2,5 @@
 Msc Project codes on Jetson nano
 The main file is in /practice/Test codes/First_stage-code/PythonApplication1
 Plus,python3,pytorch,cuda,numpy,OpenCV,Jetson-inference,BaiduOCR,SpeechRecognition,pyaudio,gTTS,pyttsx need to be downloaded first.
-Then Realsense_viewer and realsense2 python library need to be added when using Intel Realsense camera
+Then Realsense_viewer and realsense2 python library need to be added when using Intel Realsense camera 
+The RS_SSD_Test.py is for the realsense detection.
