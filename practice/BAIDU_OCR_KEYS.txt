@@ -1,0 +1,3 @@
+AppID        24601557
+API Key      ykK8brcWggHf6OLuG56vOoeq
+Secret key  LqxksXfNQ5nCMLB2fd1zuGc2tKsorG9T
